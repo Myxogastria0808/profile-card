@@ -26,6 +26,6 @@ main = do
                   position = "スクリプター",
                   activityDetails = "ノベルゲームエンジン"
                 },
-            hobbies = [ "Nix", "関数型プログラミング言語", "圏論", "お絵描き" ]
+            hobbies = [ "Nix", "Haskell", "圏論", "お絵描き" ]
           }
   pPrint profile
