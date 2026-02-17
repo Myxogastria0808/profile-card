@@ -21,7 +21,7 @@ main :: IO ()
 main = do
   let profile = Profile { handleName = "Myxogastria0808",
             department = "情報科学類",
-            grade = 3,
+            grade = 4,
             gensiken = Gensiken { group = "美少女ゲーム班",
                   position = "スクリプター",
                   activityDetails = "ノベルゲームエンジン"

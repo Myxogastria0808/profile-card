@@ -28,7 +28,7 @@
      inkscape:document-units="px"
      inkscape:zoom="1.0387976"
      inkscape:cx="365.32622"
-     inkscape:cy="209.37669"
+     inkscape:cy="205.52608"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -51,8 +51,8 @@
          sodipodi:role="line"
          x="190.08472"
          y="24.039841"
-         id="tspan108"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Javanese';-inkscape-font-specification:'Noto Sans Javanese';stroke-width:1.23082">module Main (main) where</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Javanese';-inkscape-font-specification:'Noto Sans Javanese';stroke-width:1.23082"
+         id="tspan59">module Main (main) where</tspan><tspan
          sodipodi:role="line"
          x="190.08472"
          y="49.967449"
@@ -167,7 +167,7 @@
          x="190.08472"
          y="604.13293"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Javanese';-inkscape-font-specification:'Noto Sans Javanese';stroke-width:1.23082"
-         id="tspan52">            grade = 3,</tspan><tspan
+         id="tspan52">            grade = 4,</tspan><tspan
          sodipodi:role="line"
          x="190.08472"
          y="630.06055"
@@ -202,15 +202,20 @@
          x="190.08472"
          y="785.62616"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Javanese';-inkscape-font-specification:'Noto Sans Javanese';stroke-width:1.23082"
-         id="tspan59">  pPrint profile</tspan><tspan
+         id="tspan61">  pPrint profile</tspan><tspan
          sodipodi:role="line"
          x="190.08472"
          y="806.13983"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Javanese';-inkscape-font-specification:'Noto Sans Javanese';stroke-width:1.23082"
-         id="tspan60" /><tspan
+         id="tspan62" /><tspan
          sodipodi:role="line"
          x="190.08472"
          y="826.65344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Javanese';-inkscape-font-specification:'Noto Sans Javanese';stroke-width:1.23082"
+         id="tspan60" /><tspan
+         sodipodi:role="line"
+         x="190.08472"
+         y="847.16705"
          id="tspan109"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Javanese';-inkscape-font-specification:'Noto Sans Javanese';stroke-width:1.23082" /></text>
   </g>
